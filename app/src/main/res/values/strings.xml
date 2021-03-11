@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Appli_cassiopee</string>
+    <string name="pr_nom">Prénom</string>
+    <string name="entrez_votre_pr_nom">Entrez votre prénom</string>
+    <string name="nom">Nom</string>
+    <string name="entrez_votre_nom">Entrez votre nom</string>
+</resources>
